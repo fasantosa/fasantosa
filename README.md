@@ -1,1 +1,3 @@
-# faizhalas
+- 👋 Hi, I’m Faizhal, a librarian
+- 👀 Curious about how data science can help libraries
+- 💞️ Interested in any project that would improve library services
